@@ -1,4 +1,4 @@
-# Hisse Senedi Fiyat Tahmin Uygulamasi
+# Hisse Senedi Fiyat Tahmin Uygulamasi 📈
 Son zamanlarda üzerinde çalıştığım bir projeyi sizinle paylaşmak istiyorum. Python kullanarak, hisse senetleri için otomatik fiyat tahminleri yapabilen bir araç geliştirdim. Bu proje, hisse senedi piyasasındaki dalgalanmaları daha iyi anlamamıza ve potansiyel yatırım fırsatlarını değerlendirmemize olanak tanıyor.
 
 Bu proje, Python kullanarak belirlenen hisse senetleri için otomatik fiyat tahminleri yapar. Projede, çeşitli Python kütüphaneleri kullanılarak finansal veriler üzerinde işlemler gerçekleştirilmiş ve hisse senedi fiyat tahminleri yapılmıştır.
